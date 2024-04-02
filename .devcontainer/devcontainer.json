@@ -12,6 +12,7 @@
 	"customizations": {
 		"codespaces": {
 			"openFiles": []
+			
 		},
 		"vscode": {
 			"extensions": [
